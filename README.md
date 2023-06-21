@@ -1,2 +1,3 @@
 # Diploma CTD
-- [Diploma](https://matiasraspa.github.io/Diploma)
+- [DiplomaDHT1](https://matiasraspa.github.io/Diploma/view/DHT1.html)
+- [DiplomaCACIP](https://matiasraspa.github.io/Diploma/view/CACIP.html)
